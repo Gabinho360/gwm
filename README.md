@@ -1,1 +1,0 @@
-![Logo](gwm.png)
